@@ -15,6 +15,8 @@
             inputStream = Console.ReadLine();
             int b = int.Parse(inputStream);
 
+            // 주석처리
+
             while (true)
             {
                 a = 0;
